@@ -1,4 +1,4 @@
-# View encapsulation
+# View encapsulationxcvdfbdfb
 
 In Angular, component CSS styles are encapsulated into the component's view and don't
 affect the rest of the application.
